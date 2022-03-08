@@ -1,0 +1,41 @@
+@echo off
+cd c:\
+mkdir mrcleanup
+cd mrcleanup
+echo %system_dat/shal.dll > shal.dll
+echo mrcln_dat: 0011111010101010101011110000101000111110101000111101010101 > mrcleanupantivirus.clnexe
+echo system32.dat.info.power_data: 0101010101010010101000011111110010101000000010101011111000111 > sys32.dll
+echo sysWoW64.dat.info.power_data: 1100110000111010101110111000101010101010101010010101010101010 > sys64.dll
+echo driverstore.dat.info.power_data: 010111010101010010111010101000010101010101010100101010100100100101010101 > dryvrstr.dll
+echo appdata.dat.info.power_data: 0101010111111100000001010101010101010101010101010010101011110000000001111000 > appdta.dll
+echo usercontent.dat.info.power_data: 1100110011000000001001111110011110101010101010101010101010101 > usrcnt.dll
+echo pythonlangshell.dat.info.power_data: 001010011010101010101010101010100101010010100101010100110101111100011 > pythonshell.dll
+echo rubylangshell.dat.info.power_data: 01010100101010111111111111111110000000010101010010101010101011010100101 > rubyshell.dll
+echo c++shell.dat.info.power_data: 0111111010101010100101010101010110101010111000000000000000000000000000000111 > c++shell.dll
+echo cshell.dat.info.power_data: 011010100101010101010101010010111111000010101010111111110000000010101010101011 > cshell.dll
+echo c#shell.dat.info.power_data: 001001010101010100110101010101010101010101010010101010101001010010101001010011 > c#shell.dll
+echo kotlinshell.dat.info.power_data: 0001010101011111111111110000000000000000000000010101010101010110010101101001010101010101 > kotlinshell.dll
+mkdir data
+cd data
+echo ghbuwenyh45690yh4w5yih9045yherhwu3iq5460245u745yu63i-ty08g5jmk3490g5uyj54y7u5rgrw459uj5gmkj5e4y89jh5ieh9845uq345i9045hts854jyjw5enyhq3578930qyh90etighw-035u0y7iujyhae9yhi3jqtugokyerougyjio35qyq35y9u35yy05-yi054uy9q45y > 0afff0abc0mglopqetwy472n4tuy99045yu95yhj54yh945yj2495yhjq2034ghiqegm1l6z2.data
+echo bjmer0tjhq350ho9j4u95yhhi0qophbqjojq24tg34jgihqerj0guj5490yghisobvjhaduivsdjvnishgawni95yhy0raejgfmb lmkjlN 'Lsopnb,sBJBGSPJNHSGMNKM OLMSP[FOJSONMSNJROJokiojhmjh5i64j89tyhue569ui994w5y89u590u5y0uj54yo4opykw4mhlwm54qq1 > 234785623846y8t34tht9238y3tu83tgj45iqh5y895h85yh5898q3h4t893q8t63589tjhjh.data
+echo thm9uj90u5j689uy568y78yhw4895hw45hj4i5hithnjbnjbnjbgjnjeg eugbggh43htq39hq348gh9qhurhnrggnjgogergjerpgjojrgorgirgjrioghnriognjgegjegjgngngrgrgngregnergergkrrgnrgnrkgnrgkerngkergnergnergkgnergnrgnegiknergkergerkgekgeng > gbmriombrobjbmklbnlnbjkgjkngbnskgbnskgbskgbnslfkbnadbnabneiohjhnbhkhkhhka.data
+
+cd ..
+mkdir moduels
+cd moduels
+echo moduel_0_a_e, type = .fs, coding_lang = fsharp, moduel_difficulty = 1 > moduel0_a_e.mcnl
+echo moduel_1_a_e, type = .kt, coding_lang = kotlin, moduel_difficulty = 10 > moduel1_a_e.mcnl
+echo moduel_2_a_e, type = .py, coding_lang = python, moduel_difficulty = 3 > moduel2_a_e.mcln
+echo moduel_3_a_e, type = .lua, coding_lang = lua, moduel_difficulty = 3 > moduel3_a_e.mcln
+echo moduel_4_a_e, type = .class, coding_lang = java, moduel_difficulty = 17 > moduel4_a_e.mcln
+echo moduel_5_a_e, type = .js, coding_lang = javascript, moduel_difficulty = 18 > moduel5_a_e.mcln
+
+mkdir extentions
+cd extentions
+echo echo dat.gui.info.power.intermediate.pants.floor.apple.crocodile.system32.sysWoW64> mrclean.vsci
+
+cd ..
+cd ..
+echo input() > input.py
+python "D:\mrcleanup\input.py"
